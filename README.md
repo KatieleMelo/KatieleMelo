@@ -6,9 +6,9 @@ Sou a Katiele Melo, uma profissional dedicada e orientada para resultados, com u
 
 Neste perfil, você encontrará alguns de meus projetos mais relevantes principalmente de automação de testes.
 
-Para saber mais sobre minha jornada como Quality Assurance entre em contato [aqui](https://https://www.linkedin.com/in/katiele-melo/).
+Para saber mais sobre minha jornada como Quality Assurance entre em contato [aqui](https://www.linkedin.com/in/katiele-melo/).
 
-_*Be water, my friend. 🌊*_
+_*Se tu o desejas, podes voar, só tens de confiar muito em ti..*_
 
 ### 🚀 Skills
 
