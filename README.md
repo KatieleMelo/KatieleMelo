@@ -65,13 +65,3 @@ _*Se tu o desejas, podes voar, só tens de confiar muito em ti..*_
   </a>
 </div>
 
----
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RkoLs&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
-<p align="center"><em>Powered by <strong>RkoLs</strong></em></p>
