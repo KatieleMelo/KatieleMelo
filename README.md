@@ -1,4 +1,4 @@
-</h1><img align="right" src="computer-project.png" width="350"/>
+
 
 ### 👨‍💻 Olá seja bem vindo ao meu perfil! 
 
